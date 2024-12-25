@@ -1,0 +1,11 @@
+python3 train_skf.py --energy_level 0 --num_channels 1 --num_class 4 --gpu_num 2
+python3 train_skf.py --energy_level 1 --num_channels 1 --num_class 4 --gpu_num 2
+python3 train_skf.py --energy_level 2 --num_channels 1 --num_class 4 --gpu_num 2
+python3 train_skf.py --energy_level 3 --num_channels 1 --num_class 4 --gpu_num 2
+python3 train_skf.py --energy_level 4 --num_channels 1 --num_class 4 --gpu_num 2
+python3 train_skf.py --energy_level 5 --num_channels 1 --num_class 4 --gpu_num 2
+python3 train_skf.py --energy_level 6 --num_channels 1 --num_class 4 --gpu_num 2
+python3 train_skf.py --energy_level 7 --num_channels 1 --num_class 4 --gpu_num 2
+python3 train_skf.py --energy_level 8 --num_channels 1 --num_class 4 --gpu_num 2
+python3 train_skf.py --energy_level 9 --num_channels 1 --num_class 4 --gpu_num 2
+python3 train_skf.py --energy_level 10 --num_channels 1 --num_class 4 --gpu_num 2
